@@ -24,6 +24,7 @@ body {
         /* margin-left: 250rem;  */
     }
 }
+
 @media (max-aspect-ratio: 16/9) {
     #bgVideo {
         width: auto; /* En pratique : supérieur à la largeur du viewport */

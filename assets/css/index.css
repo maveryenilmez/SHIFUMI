@@ -26,23 +26,14 @@
             width: 720px;
             height: auto;
             margin: 0 auto;
-            min-width: 100%;
-            min-height: 100% ;
-            
+            overflow: hidden;
         }
         /* display: block;
         margin: 0 auto;
         width: auto; 
         height: 100%; */
-    }
 }
 
-.full-screen-video-container{
-    position: relative;
-    height: 100vh;
-    width: 100vw;
-    overflow: hidden;
-}
 
 
 
